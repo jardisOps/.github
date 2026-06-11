@@ -6,7 +6,7 @@
 
 **jardisOps** provides the operational infrastructure for running PHP applications built on the Jardis platform: purpose-built Docker images for PHP CLI and PHP-FPM workloads, and provisioning tooling for cloud environments.
 
-> The platform that generates hexagonal DDD code for PHP is available at [jardis.io](https://jardis.io).
+> The platform that generates production-ready hexagonal code for PHP is available at [jardis.io](https://jardis.io).
 
 ---
 
